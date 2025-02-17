@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Bienvenidos esto es un texto de prueba
+Bienvenidos esto es un texto de prueba para el proyecto
 
  **Nota:** Este es un proyecto en desarrollo 
 
